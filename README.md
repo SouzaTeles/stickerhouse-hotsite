@@ -1,2 +1,1 @@
-# stickerhouse-hotsite
-Created with CodeSandbox
+# Gridsome starter for codesandbox
