@@ -24,6 +24,8 @@ export default {
   display: flex;
   flex-direction: column;
   align-items: center;
+  background: #ffffffbb;
+  height: 100vh;
 }
 .home h1 {
   display: none;
